@@ -10,9 +10,8 @@ _\* = advised student_
 
 1. **Koll D.D.B.** (2022), A Scaling for Atmospheric Heat
    Redistribution on Tidally Locked Rocky Planets, _The Astrophysical
-   Journal_. [\[journal\]](https://iopscience.iop.org/article/10.3847/1538-4357/ac3b48)
-   [\[arxiv\]](https://arxiv.org/abs/1907.13145)
-
+   Journal_, 924, 134. [\[arxiv\]](https://arxiv.org/abs/1907.13145) [\[journal\]](https://iopscience.iop.org/article/10.3847/1538-4357/ac3b48)
+   
 2. Richards B.*, **D.D.B. Koll**, T. Cronin (2021), Seasonal
    Hysteresis Between Local Outgoing Longwave Radiation and Surface
    Temperature, _Geophysical Research
