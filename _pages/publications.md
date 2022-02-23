@@ -78,10 +78,12 @@ Astrobiology_. [\[link\]](https://link.springer.com/referenceworkentry/10.1007/9
     Temperature is Insensitive to Ocean Heat Transport Changes,
     _Journal of Climate_, 26, 6742-6749. [\[journal\]](https://journals.ametsoc.org/view/journals/clim/26/18/jcli-d-13-00192.1.xml)
 
-
 # Other publications
+{:start="3"}
 
-14. Ranjan S., S. Seager, Z. Zhan, **D.D.B. Koll**, et al. (submitted), Photochemical Runaway in Exoplanet Atmospheres: Implications for Biosignatures.
+14. Ranjan S., S. Seager, Z. Zhan, **D.D.B. Koll**, et al. (2022),
+    Photochemical Runaway in Exoplanet Atmospheres: Implications for
+    Biosignatures, _The Astrophysical Journal_. [\[arxiv\]](https://arxiv.org/abs/2201.08359)
 
 15. Daylan T., M. Günther, T. Mikal-Evans, et
     al. [including **D.D.B. Koll**] (2021), TESS observations of the
