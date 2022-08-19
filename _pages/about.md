@@ -18,6 +18,24 @@ Why do different planets have such different climates? My work tries to explore 
 
 
 
+<!-- Add a news scroll box -->
+
+<div style="height:400px;overflow:auto;">
+<b>News (scroll for more)</b>
+<ul>
+	<li>
+	<em>August 2022</em>
+	Interested in climate feedbacks? Check out the
+	<a href="https://www.essoar.org/doi/abs/10.1002/essoar.10512192.1">preprint</a>
+	of our new paper with Nadir Jeevanjee and Nick Lutkso, which develops an analytical model to explain both the state-dependence and spatial structure of Earth's longwave climate feedback.
+	</li>
+</ul>
+</div>
+
+
+
+
+
 
 <!-- Find out more about my [research](https://danielkoll.github.io/research) -->
 <!-- or check out my recent [publications](https://danielkoll.github.io/publications). -->

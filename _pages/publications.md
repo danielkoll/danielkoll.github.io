@@ -8,6 +8,9 @@ author_profile: true
 # First- and Second-author publications
 _\* = advised student_
 
+0. **Koll D.D.B.**, N. Jeevanjee, N. Lutsko (2022), An Analytical
+ Model for the Clear-sky Longwave Feedback, _submitted_. [\[preprint\]](https://www.essoar.org/doi/abs/10.1002/essoar.10512192.1)
+
 1. **Koll D.D.B.** (2022), A Scaling for Atmospheric Heat
    Redistribution on Tidally Locked Rocky Planets, _The Astrophysical
    Journal_, 924, 134. [\[arxiv\]](https://arxiv.org/abs/1907.13145) [\[journal\]](https://iopscience.iop.org/article/10.3847/1538-4357/ac3b48)
@@ -78,12 +81,15 @@ Astrobiology_. [\[link\]](https://link.springer.com/referenceworkentry/10.1007/9
     Temperature is Insensitive to Ocean Heat Transport Changes,
     _Journal of Climate_, 26, 6742-6749. [\[journal\]](https://journals.ametsoc.org/view/journals/clim/26/18/jcli-d-13-00192.1.xml)
 
-# Other publications
-{:start="3"}
+
+
+    # Other publications
+
 
 14. Ranjan S., S. Seager, Z. Zhan, **D.D.B. Koll**, et al. (2022),
     Photochemical Runaway in Exoplanet Atmospheres: Implications for
-    Biosignatures, _The Astrophysical Journal_. [\[arxiv\]](https://arxiv.org/abs/2201.08359)
+    Biosignatures, _The Astrophysical
+    Journal_. [\[arxiv\]](https://arxiv.org/abs/2201.08359) [\[journal\]](https://iopscience.iop.org/article/10.3847/1538-4357/ac5749)
 
 15. Daylan T., M. Günther, T. Mikal-Evans, et
     al. [including **D.D.B. Koll**] (2021), TESS observations of the
