@@ -85,7 +85,7 @@ Astrobiology_. [\[link\]](https://link.springer.com/referenceworkentry/10.1007/9
 
     # Other publications
 
-14. Whittaker E., M. Malik, J. Ih et al. [including **D.D.B. Koll**]
+14. Whittaker E., M. Malik, J. Ih, et al. [including **D.D.B. Koll**]
     (submitted), The Detectability of Rocky Planet Surface and
     Atmosphere Composition with JWST: The Case of LHS
     3844b. [\[arxiv\]](https://arxiv.org/abs/2207.08889)
