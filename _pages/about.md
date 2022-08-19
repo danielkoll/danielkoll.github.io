@@ -25,9 +25,9 @@ Why do different planets have such different climates? My work tries to explore 
 <ul>
 	<li>
 	<em>August 2022</em>
-	Interested in climate feedbacks? Check out the
+	Interested in climate feedbacks? Check out this new
 	<a href="https://www.essoar.org/doi/abs/10.1002/essoar.10512192.1">preprint</a>
-	of our new paper with Nadir Jeevanjee and Nick Lutkso. The paper develops an analytical model to explain both the state-dependence and spatial structure of Earth's longwave climate feedback.
+with Nadir Jeevanjee and Nick Lutkso. We develop an analytical model to explain both the state-dependence and spatial structure of Earth's longwave climate feedback.
 	</li>
 </ul>
 </div>
