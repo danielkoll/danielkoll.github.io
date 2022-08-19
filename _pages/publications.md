@@ -8,8 +8,8 @@ author_profile: true
 # First- and Second-author publications
 _\* = advised student_
 
-0. **Koll D.D.B.**, N. Jeevanjee, N. Lutsko (2022), An Analytical
- Model for the Clear-sky Longwave Feedback, _submitted_. [\[preprint\]](https://www.essoar.org/doi/abs/10.1002/essoar.10512192.1)
+0. **Koll D.D.B.**, N. Jeevanjee, N. Lutsko (submitted), An Analytical
+ Model for the Clear-sky Longwave Feedback. [\[preprint\]](https://www.essoar.org/doi/abs/10.1002/essoar.10512192.1)
 
 1. **Koll D.D.B.** (2022), A Scaling for Atmospheric Heat
    Redistribution on Tidally Locked Rocky Planets, _The Astrophysical
@@ -85,6 +85,10 @@ Astrobiology_. [\[link\]](https://link.springer.com/referenceworkentry/10.1007/9
 
     # Other publications
 
+14. Whittaker E., M. Malik, J. Ih et al. [including **D.D.B. Koll**]
+    (submitted), The Detectability of Rocky Planet Surface and
+    Atmosphere Composition with JWST: The Case of LHS
+    3844b. [\[arxiv\]](https://arxiv.org/abs/2207.08889)
 
 14. Ranjan S., S. Seager, Z. Zhan, **D.D.B. Koll**, et al. (2022),
     Photochemical Runaway in Exoplanet Atmospheres: Implications for
