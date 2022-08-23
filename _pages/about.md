@@ -18,11 +18,21 @@ Why do different planets have such different climates? My work tries to explore 
 
 
 
-<!-- Add a news scroll box -->
+<!--
+** Add a news scroll box**
+<ul> is unordered list.
+Each new list item starts with <li>.
+-->
 
 <div style="height:400px;overflow:auto;">
 <b>News (scroll for more)</b>
 <ul>
+<!-- .... -->
+	<li>
+	<em>August 2022</em>
+	Interested in doing undergraduate research, or looking for a postdoc position? Get in touch via email (see left).
+	</li>
+<!-- .... -->
 	<li>
 	<em>August 2022</em>
 	Interested in climate feedbacks? Check out this new
