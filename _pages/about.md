@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Welcome! I'm an assistant professor in Peking University's [Department of Atmospheric and Oceanic Sciences](https://atmos.pku.edu.cn).
+Welcome! I'm an assistant professor in Peking University's [Department of Atmospheric and Oceanic Sciences](https://atmos.pku.edu.cn) and a member of our [Planetary Atmospheres](https://www.atmos.pku.edu.cn/en/research/Researchdirections/144785.htm) group.
 
 I originally grew up in Tanzania, Germany, and Kenya. I went on to study Physics and Philosophy at Harvard, and did a PhD in climate science and extrasolar planets at the University of Chicago. After that I was a postdoc at MIT, supported by a fellowship from the James S. McDonnell Foundation. I now work at Peking University in Beijing, China.
 
@@ -27,6 +27,11 @@ Each new list item starts with <li>.
 <div style="height:400px;overflow:auto;">
 <b>News (scroll for more)</b>
 <ul>
+<!-- .... -->
+	<li>
+	<em>October 2022</em>
+	Our Planetary Atmospheres group has open postdoc positions. Find out more <a href="https://www.atmos.pku.edu.cn/en/research/Researchdirections/144785.htm">here</a>.
+	</li>
 <!-- .... -->
 	<li>
 	<em>August 2022</em>
