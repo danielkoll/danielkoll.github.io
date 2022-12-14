@@ -9,7 +9,8 @@ author_profile: true
 _\* = advised student_
 
 0. **Koll D.D.B.**, N. Jeevanjee, N. Lutsko (submitted), An Analytical
- Model for the Clear-sky Longwave Feedback. [\[preprint\]](https://www.essoar.org/doi/abs/10.1002/essoar.10512192.1)
+ Model for the Clear-sky Longwave
+ Feedback. [\[preprint\]](https://www.essoar.org/doi/abs/10.1002/essoar.10512192.1) [\[pdf\]](/files/preprint.pdf)
 
 1. **Koll D.D.B.** (2022), A Scaling for Atmospheric Heat
    Redistribution on Tidally Locked Rocky Planets, _The Astrophysical
