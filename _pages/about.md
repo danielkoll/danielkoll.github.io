@@ -41,7 +41,7 @@ Each new list item starts with <li>.
 	<li>
 	<em>August 2022</em>
 	Interested in climate feedbacks? Check out this new
-	<a href="https://www.essoar.org/doi/abs/10.1002/essoar.10512192.1">preprint</a>
+	<a href="https://doi.org/10.1002/essoar.10512192.1">preprint</a>
 with Nadir Jeevanjee and Nick Lutkso. We develop an analytical model to explain both the state-dependence and spatial structure of Earth's longwave climate feedback.
 	</li>
 </ul>
