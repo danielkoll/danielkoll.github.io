@@ -8,9 +8,10 @@ author_profile: true
 # First- and Second-author publications
 _\* = advised student_
 
-0. **Koll D.D.B.**, N. Jeevanjee, N. Lutsko (submitted), An Analytical
- Model for the Clear-sky Longwave
- Feedback. [\[preprint\]](https://doi.org/10.1002/essoar.10512192.1) [\[pdf\]](/files/preprint.pdf)
+0. **Koll D.D.B.**, N. Jeevanjee, N. Lutsko (2023), An Analytic
+ Model for the Clear-sky Longwave Feedback, _Journal of the Atmospheric Sciences_.
+ [\[journal\]](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-22-0178.1/JAS-D-22-0178.1.xml)
+ [\[accepted version\]](/files/2023-koll-accepted.pdf)
 
 1. **Koll D.D.B.** (2022), A Scaling for Atmospheric Heat
    Redistribution on Tidally Locked Rocky Planets, _The Astrophysical
@@ -86,22 +87,26 @@ Astrobiology_. [\[link\]](https://link.springer.com/referenceworkentry/10.1007/9
 
     # Other publications
 
-14. Whittaker E., M. Malik, J. Ih, et al. [including **D.D.B. Koll**]
-    (submitted), The Detectability of Rocky Planet Surface and
-    Atmosphere Composition with JWST: The Case of LHS
-    3844b. [\[arxiv\]](https://arxiv.org/abs/2207.08889)
+14. Barclay T., K. B. Sheppard, N. Latouf, et al [including
+    **D.D.B. Koll**] (submitted), The transmission spectrum of the potentially rocky planet L 98-59 c. [\[arxiv\]](https://arxiv.org/abs/2301.10866)
 
-14. Ranjan S., S. Seager, Z. Zhan, **D.D.B. Koll**, et al. (2022),
+15. Whittaker E., M. Malik, J. Ih, et al. [including **D.D.B. Koll**]
+    (2022), The Detectability of Rocky Planet Surface and
+    Atmosphere Composition with JWST: The Case of LHS
+    3844b, _The Astronomical Journal_,
+    164, 6. [\[arxiv\]](https://arxiv.org/abs/2207.08889) [\[journal\]](https://iopscience.iop.org/article/10.3847/1538-3881/ac9ab3/meta)
+
+16. Ranjan S., S. Seager, Z. Zhan, **D.D.B. Koll**, et al. (2022),
     Photochemical Runaway in Exoplanet Atmospheres: Implications for
     Biosignatures, _The Astrophysical
     Journal_. [\[arxiv\]](https://arxiv.org/abs/2201.08359) [\[journal\]](https://iopscience.iop.org/article/10.3847/1538-4357/ac5749)
 
-15. Daylan T., M. Günther, T. Mikal-Evans, et
+17. Daylan T., M. Günther, T. Mikal-Evans, et
     al. [including **D.D.B. Koll**] (2021), TESS observations of the
     WASP-121 b phase curve, _The Astronomical Journal_,
     161, 131. [\[arxiv\]](https://arxiv.org/abs/1909.03000) [\[journal\]](https://iopscience.iop.org/article/10.3847/1538-3881/abd8d2)
 
-16. Malik M., E. Kempton, **D.D.B. Koll**, et al. (2019), Analyzing
+18. Malik M., E. Kempton, **D.D.B. Koll**, et al. (2019), Analyzing
     Atmospheric Temperature Profiles and Spectra of Rocky M dwarf
     Planets, _The Astrophysical Journal_,
     886, 2. [\[arxiv\]](https://arxiv.org/abs/1907.13135)
@@ -109,20 +114,20 @@ Astrobiology_. [\[link\]](https://link.springer.com/referenceworkentry/10.1007/9
     [News: a](https://www.nasa.gov/feature/goddard/2019/astronomers-propose-a-novel-method-of-finding-atmospheres-on-rocky-worlds/)
 	[b](https://www.skyandtelescope.com/astronomy-news/new-method-expedite-search-exoplanets-atmospheres/)
 
-17. Mansfield M., E. Kite, R. Hu, **D.D.B. Koll**, et al. (2019),
+19. Mansfield M., E. Kite, R. Hu, **D.D.B. Koll**, et al. (2019),
     Identifying Atmospheres on Rocky M Dwarf Planets through Inferred
     High Albedo, _The Astrophysical Journal_,
     886, 2. [\[arxiv\]](https://arxiv.org/abs/1907.13150) [\[journal\]](https://iopscience.iop.org/article/10.3847/1538-4357/ab4c90)
     [News: a](https://www.nasa.gov/feature/goddard/2019/astronomers-propose-a-novel-method-of-finding-atmospheres-on-rocky-worlds/)
 	[b](https://www.skyandtelescope.com/astronomy-news/new-method-expedite-search-exoplanets-atmospheres/)
 	
-18. Yang J., J. Leconte, E. Wolf, T. Merlis, **D.D.B. Koll**, et
+20. Yang J., J. Leconte, E. Wolf, T. Merlis, **D.D.B. Koll**, et
     al. (2019), Simulations of Water Vapor and Clouds on Rapidly
     Rotating and Tidally Locked Planets: A 3D Model Intercomparison,
     _The Astrophysical Journal_,
     875, 1. [\[journal\]](https://iopscience.iop.org/article/10.3847/1538-4357/ab09f1/meta)
 
-19. Yang J., D. Abbot, **D.D.B. Koll**, et al. (2019), Ocean Dynamics
+21. Yang J., D. Abbot, **D.D.B. Koll**, et al. (2019), Ocean Dynamics
     and the Inner Edge of the Habitable Zone for Tidally Locked
     Terrestrial Planets, _The Astrophysical Journal_,
     871, 29. [\[journal\]](https://iopscience.iop.org/article/10.3847/1538-4357/aaf1a8)

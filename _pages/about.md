@@ -29,6 +29,12 @@ Each new list item starts with <li>.
 <ul>
 <!-- .... -->
 	<li>
+	<em>May 2023</em>
+	The most important feedback for determining how much Earth warms under global warming is the longwave clearsky feedback. Together with Nadir Jeevanjee and Nick Lutsko, we developed a way to estimate this feedback solely using pen and paper. The paper is published
+	<a href="https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-22-0178.1/JAS-D-22-0178.1.xml">here</a>.
+	</li>
+<!-- .... -->
+	<li>
 	<em>October 2022</em>
 	Our Planetary Atmospheres group has open postdoc positions. Find out more <a href="https://www.atmos.pku.edu.cn/en/research/Researchdirections/144785.htm">here</a>.
 	</li>
