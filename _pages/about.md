@@ -31,7 +31,7 @@ Each new list item starts with <li>.
 	<li>
 	<em>May 2023</em>
 	The most important feedback for determining how much Earth warms under global warming is the longwave clearsky feedback. Together with Nadir Jeevanjee and Nick Lutsko, we developed a way to estimate this feedback solely using pen and paper. The paper is published
-	<a href="https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-22-0178.1/JAS-D-22-0178.1.xml">here</a>.
+	<a href="https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-22-0178.1/JAS-D-22-0178.1.xml">here</a>. Want to compute analytical spectral feedbacks yourself? The scripts are available on <a href="https://github.com/danielkoll/spectral_feedbacks">github</a>.
 	</li>
 <!-- .... -->
 	<li>
