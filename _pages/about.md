@@ -29,6 +29,18 @@ Each new list item starts with <li>.
 <ul>
 <!-- .... -->
 	<li>
+	<em>June 2023</em>
+	Still hunting for exoplanet atmospheres ... Congratulations to Sebastian Zieba for leading this study that was recently published in
+	<a href="https://www.nature.com/articles/s41586-023-06232-z">Nature</a>! From simple theory papers<sup><a href="https://iopscience.iop.org/article/10.1088/0004-637X/802/1/21">a</a>,
+<a href="https://iopscience.iop.org/article/10.3847/1538-4357/ab4c91">b</a>,
+<a href="https://iopscience.iop.org/article/10.3847/1538-4357/ab4c90">c</a>,
+<a href="https://iopscience.iop.org/article/10.3847/1538-4357/ab4a05">d</a></sup>,
+over a first test run with the Spitzer telescope<sup><a href="https://www.nature.com/articles/s41586-019-1497-4">e</a></sup>,
+to now having the incredible capabilities of JWST, the search for atmospheres on roughly Earth-sized planets has been one of the most exciting research areas I've had the privilege to be involved with. In this paper, our team found that the nearby TRAPPIST-1c does not have a thick Venus-like atmosphere. Given the similar finding for the neighboring TRAPPIST-1b<sup><a href="https://www.nature.com/articles/s41586-023-05951-7">f</a></sup>,
+maybe it's harder than we originally thought to find truly Earth-like planets out there? 
+	</li>
+<!-- .... -->
+	<li>
 	<em>May 2023</em>
 	The most important feedback for determining how much Earth warms under global warming is the longwave clearsky feedback. Together with Nadir Jeevanjee and Nick Lutsko, we developed a way to estimate this feedback solely using pen and paper. The paper is published
 	<a href="https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-22-0178.1/JAS-D-22-0178.1.xml">here</a>. Want to compute analytical spectral feedbacks yourself? The scripts are available on <a href="https://github.com/danielkoll/spectral_feedbacks">github</a>.
