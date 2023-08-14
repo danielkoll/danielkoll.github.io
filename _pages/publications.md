@@ -87,6 +87,11 @@ Astrobiology_. [\[link\]](https://link.springer.com/referenceworkentry/10.1007/9
 
     # Other publications
 
+14. Lincowski A., V. Meadows, S. Zieba, et al [including
+**D.D.B. Koll** and X. Lyu*] (2023), Potential Atmospheric
+Compositions of TRAPPIST-1 c constrained by JWST/MIRI Observations at
+15 μm, _accepted to ApJL_. [\[arxiv\]](https://arxiv.org/abs/2308.05899)
+
 14. Zieba, S., Kreidberg, L., Ducrot, E. et al [including
 **D.D.B. Koll** and X. Lyu*] (2023), No thick carbon dioxide
 atmosphere on the rocky exoplanet TRAPPIST-1 c,
@@ -94,7 +99,6 @@ _Nature_. [\[journal\]](https://doi.org/10.1038/s41586-023-06232-z)
 [\[arxiv\]](https://arxiv.org/abs/2306.10150) [News:
 a](https://www.nature.com/articles/d41586-023-01983-1)
 [b](https://www.mpia.de/news/science/2023-08-trappist-1-c)
-
 
 14. Barclay T., K. B. Sheppard, N. Latouf, et al [including
     **D.D.B. Koll**] (submitted), The transmission spectrum of the potentially rocky planet L 98-59 c. [\[arxiv\]](https://arxiv.org/abs/2301.10866)
