@@ -8,9 +8,9 @@ author_profile: true
 # First- and Second-author publications
 _\* = advised student_
 
-0. Quan* H., **D.D.B. Koll**, N. Lutsko, J. Yuval (_submitted_), Optimal Solar Geoengineering Strategies Based on Reinforcement Learning.
+0. Quan H.*, **D.D.B. Koll**, N. Lutsko, J. Yuval (_submitted_), Optimal Solar Geoengineering Strategies Based on Reinforcement Learning.
  
-0. Lyu* X., **D.D.B. Koll**, N. Cowan, R. Hu, L. Kreidberg, B. Rose (_submitted_), Super-Earth LHS
+0. Lyu X.*, **D.D.B. Koll**, N. Cowan, R. Hu, L. Kreidberg, B. Rose (_submitted_), Super-Earth LHS
  3844b is tidally locked.
  [\[arxiv\]](https://arxiv.org/abs/2310.01725)
 
