@@ -21,7 +21,7 @@ PKU graduate student, working on the habitable zone around White Dwarfs.
 
 ### Yichen Gao (2022-now)
 
-PKU undergraduate student, working on convection in H2-rich atmospheres.
+PKU graduate student, working on convection in H2-rich atmospheres.
 
 ### Zhiping Zhang (2023-now)
 
