@@ -29,6 +29,11 @@ Each new list item starts with <li>.
 <ul>
 <!-- .... -->
 	<li>
+	<em>January 2024</em>
+	Does moisture strengthen or weaken atmospheric eddies? Our new study led by Nick Lutsko suggests that, in an Earth-like atmosphere, moisture makes storms weaker. A preprint is available <a href="https://essopenarchive.org/users/529274/articles/694474-atmospheric-moisture-decreases-mid-latitude-eddy-kinetic-energy">here</a>.
+	</li>	
+<!-- .... -->
+	<li>
 	<em>June 2023</em>
 	Still hunting for exoplanet atmospheres ... Congratulations to Sebastian Zieba for leading this study that was recently published in
 	<a href="https://www.nature.com/articles/s41586-023-06232-z">Nature</a>! From simple theory papers<sup><a href="https://iopscience.iop.org/article/10.1088/0004-637X/802/1/21">a</a>,
