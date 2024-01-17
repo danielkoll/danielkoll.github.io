@@ -93,6 +93,12 @@ Astrobiology_. [\[link\]](https://link.springer.com/referenceworkentry/10.1007/9
 
     # Other publications
 
+14. Lutsko N., J. Martinez-Claros, **D.D.B. Koll** (submitted), Atmospheric Moisture Decreases Mid-Latitude Eddy Kinetic Energy. [\[preprint\]](https://essopenarchive.org/users/529274/articles/694474-atmospheric-moisture-decreases-mid-latitude-eddy-kinetic-energy)
+
+14. de Wit J., R. Doyon, B. Rackham, et al [including
+**D.D.B. Koll**], A roadmap to the efficient and robust characterization of
+    temperate terrestrial planet atmospheres with JWST. [\[arxiv\]](https://arxiv.org/abs/2310.15895)
+    
 14. Lincowski A., V. Meadows, S. Zieba, et al [including
 **D.D.B. Koll** and X. Lyu*] (2023), Potential Atmospheric
 Compositions of TRAPPIST-1 c constrained by JWST/MIRI Observations at
