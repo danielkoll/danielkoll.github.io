@@ -8,15 +8,15 @@ author_profile: true
 # First- and Second-author publications
 _\* = advised student_
 
-0. Xu Y.*, **D.D.B. Koll** (_submitted_), CO2-dependence of Longwave Clear-sky Feedback is sensitive to Temperature.
+1. Xu Y.*, **D.D.B. Koll** (_submitted_), CO2-dependence of Longwave Clear-sky Feedback is sensitive to Temperature.
 
-0. Quan H.*, **D.D.B. Koll**, N. Lutsko, J. Yuval (_submitted_), Optimal Solar Geoengineering Strategies Based on Reinforcement Learning.
+1. Quan H.*, **D.D.B. Koll**, N. Lutsko, J. Yuval (_submitted_), Optimal Solar Geoengineering Strategies Based on Reinforcement Learning.
  
-0. Lyu X.*, **D.D.B. Koll**, N. Cowan, R. Hu, L. Kreidberg, B. Rose (_submitted_), Super-Earth LHS
+1. Lyu X.*, **D.D.B. Koll**, N. Cowan, R. Hu, L. Kreidberg, B. Rose (_submitted_), Super-Earth LHS
  3844b is tidally locked.
  [\[arxiv\]](https://arxiv.org/abs/2310.01725)
 
-0. **Koll D.D.B.**, N. Jeevanjee, N. Lutsko (2023), An Analytic
+1. **Koll D.D.B.**, N. Jeevanjee, N. Lutsko (2023), An Analytic
  Model for the Clear-sky Longwave Feedback, _Journal of the Atmospheric Sciences_.
  [\[journal\]](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-22-0178.1/JAS-D-22-0178.1.xml)
  [\[accepted version\]](/files/2023-koll-accepted.pdf)
