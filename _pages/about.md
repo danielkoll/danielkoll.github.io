@@ -29,6 +29,11 @@ Each new list item starts with <li>.
 <ul>
 <!-- .... -->
 	<li>
+	<em>April 2024</em>
+    Tidal models have long predicted that exoplanets should be tidally locked, but didn't have much empirical evidence to back them up. Our <a href="https://doi.org/10.3847/1538-4357/ad2077">new study</a>, led by Xintong Lyu, shows that the thermal observations of the super-Earth LHS 3844b strongly constrain its rotation rate; the planet is almost certainly tidally locked. In addition, its surface is almost as dark as a perfect blackbody, so LHS 3844b's surface was likely space weathered. Also read more in this <a href="https://www.nature.com/articles/d41586-024-00414-z">news article</a>.
+	</li>
+<!-- .... -->
+	<li>
 	<em>January 2024</em>
 	Does moisture strengthen or weaken atmospheric eddies? Our new study led by Nick Lutsko suggests that, in an Earth-like atmosphere, moisture makes storms weaker. A preprint is available <a href="https://essopenarchive.org/users/529274/articles/694474-atmospheric-moisture-decreases-mid-latitude-eddy-kinetic-energy">here</a>.
 	</li>	
