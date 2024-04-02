@@ -30,7 +30,7 @@ Each new list item starts with <li>.
 <!-- .... -->
 	<li>
 	<em>April 2024</em>
-    Tidal models have long predicted that exoplanets should be tidally locked, but didn't have much empirical evidence to back them up. Our <a href="https://doi.org/10.3847/1538-4357/ad2077">new study</a>, led by Xintong Lyu, shows that the thermal observations of the super-Earth LHS 3844b strongly constrain its rotation rate; the planet is almost certainly tidally locked. In addition, its surface is almost as dark as a perfect blackbody, so LHS 3844b's surface was likely space weathered. Also read more in this <a href="https://www.nature.com/articles/d41586-024-00414-z">news article</a>.
+    Tidal models have long predicted that exoplanets should be tidally locked, but didn't have much empirical evidence to back them up. Our <a href="https://doi.org/10.3847/1538-4357/ad2077">new study</a>, led by Xintong Lyu, shows that thermal observations of the super-Earth LHS 3844b strongly constrain its rotation rate; the planet is almost certainly tidally locked. In addition, its surface is almost as dark as a perfect blackbody, so LHS 3844b's surface was likely space weathered. Also read more in this <a href="https://www.nature.com/articles/d41586-024-00414-z">news article</a>.
 	</li>
 <!-- .... -->
 	<li>
