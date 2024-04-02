@@ -12,9 +12,9 @@ _\* = advised student_
 
 1. Quan H.*, **D.D.B. Koll**, N. Lutsko, J. Yuval (_submitted_), Optimal Solar Geoengineering Strategies Based on Reinforcement Learning.
  
-1. Lyu X.*, **D.D.B. Koll**, N. Cowan, R. Hu, L. Kreidberg, B. Rose (_submitted_), Super-Earth LHS
- 3844b is tidally locked.
- [\[arxiv\]](https://arxiv.org/abs/2310.01725)
+1. Lyu X.*, **D.D.B. Koll**, N. Cowan, R. Hu, L. Kreidberg, B. Rose (2024), Super-Earth LHS
+ 3844b is tidally locked, _The Astrophysical Journal_, 964, 152.
+ [\[journal\]](https://iopscience.iop.org/article/10.3847/1538-4357/ad2077) [\[arxiv\]](https://arxiv.org/abs/2310.01725) [\[nature highlights\]](https://www.nature.com/articles/d41586-024-00414-z) 
 
 1. **Koll D.D.B.**, N. Jeevanjee, N. Lutsko (2023), An Analytic
  Model for the Clear-sky Longwave Feedback, _Journal of the Atmospheric Sciences_.
