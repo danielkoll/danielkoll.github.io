@@ -8,6 +8,8 @@ author_profile: true
 # First- and Second-author publications
 _\* = advised student_
 
+1. Zhan R.*, **D.D.B.Koll** , F. Ding (_submitted_), Novel Atmospheric Dynamics shape Inner Edge of Habitable Zone around White Dwarfs.
+
 1. Xu Y.*, **D.D.B. Koll** (_submitted_), CO2-dependence of Longwave Clear-sky Feedback is sensitive to Temperature.
 
 1. Quan H.*, **D.D.B. Koll**, N. Lutsko, J. Yuval (_submitted_), Optimal Solar Geoengineering Strategies Based on Reinforcement Learning.
