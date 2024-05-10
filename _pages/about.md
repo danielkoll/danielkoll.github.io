@@ -30,7 +30,7 @@ Each new list item starts with <li>.
 <!-- .... -->
 	<li>
 	<em>May 2024</em>
-    Everybody knows CO2 absorbs radiation, which allows it to act as a radiative forcing. However, Kirchhoff's law states that a gas which absorbs radiation must also emit radiation. This means CO2 doesn't just act as a radiative forcing, it can also influence Earth's radiative feedback. Our <a href="https://doi.org/10.1029/2024GL108259">new study</a>, led by Yue Xu, explains why CO2 helps to stabilize Earth's feedback in warm climates, but destabilizes it in cold climates. That means CO2 provides an additional mechanism for feedback state-dependence, which needs to be taken into account when comparing today with paleoclimates or future climates.
+    Everybody knows CO2 absorbs radiation, which allows it to act as a radiative forcing. However, Kirchhoff's law states that a gas which absorbs radiation must also emit radiation. This means CO2 can also influence Earth's radiative feedback. Our <a href="https://doi.org/10.1029/2024GL108259">new study</a>, led by Yue Xu, explains why CO2 helps to stabilize Earth's feedback in warm climates, but destabilizes it in cold climates. That means CO2 provides an additional mechanism for feedback state-dependence, which needs to be taken into account when comparing today with paleoclimates or future climates.
 	</li>
 <!-- .... -->
 	<li>
