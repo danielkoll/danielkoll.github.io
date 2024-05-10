@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-### Xintong Lyu (2020-now)
+### Xintong Lyu (2021-now)
 
 PKU graduate student, working on surfaces and observations of airless
 exoplanets.
@@ -15,13 +15,15 @@ exoplanets.
 
 PKU graduate student, working on spectral climate feedbacks.
 
-### Ruizhi Zhan (2021-now)
+### Ruizhi Zhan (2022-now)
 
 PKU graduate student, working on the habitable zone around White Dwarfs.
+[\[homepage\]](https://ruizhizhan.github.io)
 
-### Yichen Gao (2022-now)
+### Yichen Gao (2023-now)
 
 PKU graduate student, working on convection in H2-rich atmospheres.
+[\[homepage\]](https://github.com/yichenGao911)
 
 ### Zhiping Zhang (2023-now)
 
