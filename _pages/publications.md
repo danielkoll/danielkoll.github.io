@@ -10,9 +10,10 @@ _\* = advised student_
 
 1. Zhan R.*, **D.D.B.Koll** , F. Ding (_submitted_), Novel Atmospheric Dynamics shape Inner Edge of Habitable Zone around White Dwarfs.
 
-1. Xu Y.*, **D.D.B. Koll** (_submitted_), CO2-dependence of Longwave Clear-sky Feedback is sensitive to Temperature.
-
 1. Quan H.*, **D.D.B. Koll**, N. Lutsko, J. Yuval (_submitted_), Optimal Solar Geoengineering Strategies Based on Reinforcement Learning.
+
+1. Xu Y.*, **D.D.B. Koll** (2024), CO2-Dependence of Longwave Clear-Sky Feedback Is Sensitive to Temperature, _Geophysical Research
+   Letters_, 51, e2024GL108259. [\[journal\]](https://doi.org/10.1029/2024GL108259)
  
 1. Lyu X.*, **D.D.B. Koll**, N. Cowan, R. Hu, L. Kreidberg, B. Rose (2024), Super-Earth LHS
  3844b is tidally locked, _The Astrophysical Journal_, 964, 152.
