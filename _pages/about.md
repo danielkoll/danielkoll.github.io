@@ -29,6 +29,11 @@ Each new list item starts with <li>.
 <ul>
 <!-- .... -->
 	<li>
+	<em>May 2024</em>
+    Everybody knows CO2 absorbs radiation, which allows it to act as a radiative forcing. However, Kirchhoff's law states that a gas which absorbs radiation must also emit radiation. This means CO2 doesn't just act as a radiative forcing, it can also influence Earth's radiative feedback. Our <a href="https://doi.org/10.1029/2024GL108259">new study</a>, led by Yue Xu, explains why CO2 helps to stabilize Earth's feedback in warm climates, but destabilizes it in cold climates. That means CO2 provides an additional mechanism for feedback state-dependence, which needs to be taken into account when comparing today with paleoclimates or future climates.
+	</li>
+<!-- .... -->
+	<li>
 	<em>April 2024</em>
     Tidal models long predicted that exoplanets should be tidally locked, but didn't have much empirical evidence to back them up. Our <a href="https://doi.org/10.3847/1538-4357/ad2077">new study</a>, led by Xintong Lyu, shows that thermal observations of the super-Earth LHS 3844b strongly constrain its rotation rate; the planet is almost certainly tidally locked. In addition, its surface is almost as dark as a perfect blackbody, so LHS 3844b's surface is likely space weathered. Read more in this <a href="https://www.nature.com/articles/d41586-024-00414-z">news highlight</a>.
 	</li>
