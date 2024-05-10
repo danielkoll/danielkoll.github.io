@@ -15,12 +15,12 @@ exoplanets.
 
 PKU graduate student, working on spectral climate feedbacks.
 
-### Ruizhi Zhan (2022-now)
+### [Ruizhi Zhan](https://ruizhizhan.github.io) (2022-now)
 
 PKU graduate student, working on the habitable zone around White Dwarfs.
 [\[homepage\]](https://ruizhizhan.github.io)
 
-### Yichen Gao (2023-now)
+### [Yichen Gao](https://github.com/yichenGao911) (2023-now)
 
 PKU graduate student, working on convection in H2-rich atmospheres.
 [\[homepage\]](https://github.com/yichenGao911)
