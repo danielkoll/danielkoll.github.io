@@ -31,12 +31,7 @@ PKU undergraduate student, working on Earth's clearsky shortwave feedback.
 
 # Alumni
 
-### Jiaru Shi (2022-2023)
-
-PKU undergraduate student, worked on how tidal heating affects
-exoplanet climates. Now a PhD student at MIT.
-
-### Heng Quan (2021-2022)
+### [Heng Quan](https://heng-quan.github.io/) (2021-2022)
 
 PKU undergraduate student, worked on using machine
 learning to inform Solar Geoengineering Strategies. Now a PhD
@@ -46,3 +41,9 @@ student at Princeton University.
 
 Cambridge undergraduate student, worked on atmospheric optics in
 exoplanet atmospheres. Now a Master's student at Cambridge.
+
+### Jiaru Shi (2022-2023)
+
+PKU undergraduate student, worked on how tidal heating affects
+exoplanet climates. Now a PhD student at MIT.
+
