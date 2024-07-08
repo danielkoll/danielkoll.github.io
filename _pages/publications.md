@@ -8,9 +8,9 @@ author_profile: true
 # First- and Second-author publications
 _\* = advised student_
 
-1. Zhan R.*, **D.D.B.Koll** , F. Ding (_submitted_), Novel Atmospheric Dynamics shape Inner Edge of Habitable Zone around White Dwarfs.
-
 1. Quan H.*, **D.D.B. Koll**, N. Lutsko, J. Yuval (_submitted_), Optimal Solar Geoengineering Strategies Based on Reinforcement Learning.
+
+1. Zhan R.*, **D.D.B.Koll** , F. Ding (2024), Novel Atmospheric Dynamics shape Inner Edge of Habitable Zone around White Dwarfs, _The Astrophysical Journal_. [\[arxiv\]](https://arxiv.org/abs/2406.03189)
 
 1. Xu Y.*, **D.D.B. Koll** (2024), CO2-Dependence of Longwave Clear-Sky Feedback Is Sensitive to Temperature, _Geophysical Research
    Letters_, 51, e2024GL108259. [\[journal\]](https://doi.org/10.1029/2024GL108259)
@@ -103,11 +103,13 @@ Astrobiology_. [\[link\]](https://link.springer.com/referenceworkentry/10.1007/9
 14. de Wit J., R. Doyon, B. Rackham, et al [including
 **D.D.B. Koll**], A roadmap to the efficient and robust characterization of
     temperate terrestrial planet atmospheres with JWST. [\[arxiv\]](https://arxiv.org/abs/2310.15895)
+
+14. Gillon M., P. Pedersen, B. Rackham et al [including **D.D.B. Koll** and X. Lyu*] (2024), Detection of an Earth-sized exoplanet orbiting the nearby ultracool dwarf star SPECULOOS-3, _Nature Astronomy_. [\[journal\]](https://www.nature.com/articles/s41550-024-02271-2)
     
 14. Lincowski A., V. Meadows, S. Zieba, et al [including
 **D.D.B. Koll** and X. Lyu*] (2023), Potential Atmospheric
 Compositions of TRAPPIST-1 c constrained by JWST/MIRI Observations at
-15 μm, _accepted to ApJL_. [\[arxiv\]](https://arxiv.org/abs/2308.05899)
+15 μm, _ApJL_. [\[journal\]](https://iopscience.iop.org/article/10.3847/2041-8213/acee02) [\[arxiv\]](https://arxiv.org/abs/2308.05899)
 
 14. Zieba, S., Kreidberg, L., Ducrot, E. et al [including
 **D.D.B. Koll** and X. Lyu*] (2023), No thick carbon dioxide
