@@ -101,7 +101,7 @@ Astrobiology_. [\[link\]](https://link.springer.com/referenceworkentry/10.1007/9
 14. Lutsko N., J. Martinez-Claros, **D.D.B. Koll** (submitted), Atmospheric Moisture Decreases Mid-Latitude Eddy Kinetic Energy. [\[preprint\]](https://essopenarchive.org/users/529274/articles/694474-atmospheric-moisture-decreases-mid-latitude-eddy-kinetic-energy)
 
 14. de Wit J., R. Doyon, B. Rackham, et al [including
-**D.D.B. Koll**], A roadmap to the efficient and robust characterization of
+**D.D.B. Koll**] (in press), A roadmap to the efficient and robust characterization of
     temperate terrestrial planet atmospheres with JWST. [\[arxiv\]](https://arxiv.org/abs/2310.15895)
 
 14. Gillon M., P. Pedersen, B. Rackham et al [including **D.D.B. Koll** and X. Lyu*] (2024), Detection of an Earth-sized exoplanet orbiting the nearby ultracool dwarf star SPECULOOS-3, _Nature Astronomy_. [\[journal\]](https://www.nature.com/articles/s41550-024-02271-2)
