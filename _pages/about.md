@@ -35,7 +35,7 @@ Each new list item starts with <li>.
 <!-- .... -->
 	<li>
 	<em>August 2024</em>
-    	Putting a new spin on the habitable zone ... Our <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ad54c1">new study</a>, led by Ruizhi Zhan, investigates the atmospheric dynamics of habitable planets around White Dwarfs. These planets are likely tidally locked but also rotate extremely rapidly, which gives rise to a new regime of atmospheric dynamics we call 'Bat rotation' and which we explain using shallow-water theory. Although it's still unclear whether planets around White Dwarfs are common, our results show that such planets would be extremely attractive targets for atmospheric characterization via JWST thermal phase curves.
+    	Putting a new spin on the habitable zone ... Our <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ad54c1">new study</a>, led by Ruizhi Zhan, investigates the atmospheric dynamics of habitable planets around White Dwarfs. These planets are likely tidally locked but also rotate extremely rapidly, which gives rise to a new regime of atmospheric dynamics we call 'Bat rotation' and which we explain using shallow-water theory. Although it's still unclear whether planets around White Dwarfs are common, our results show that such planets would be attractive targets for atmospheric characterization via JWST thermal phase curves.
 	</li>
 <!-- .... -->
 <!-- .... -->
