@@ -30,7 +30,7 @@ Each new list item starts with <li>.
 <!-- .... -->
 	<li>
 	<em>September 2024</em>
-    	Still no atmospheres? ... Qiao Xue and Megan Mansfield led two studies that used JWST to search for signs of atmospheres on the rocky exoplanets <a href="https://arxiv.org/abs/2408.13340">GJ 1132b</a> and <a hred="https://arxiv.org/abs/2408.15123">Gl 486b</a>. The data rule out most atmospheric scenarios, making it unlikely that either planet still holds on to a thick atmosphere. 
+    	Still no atmospheres? ... Qiao Xue and Megan Mansfield led two studies that used JWST to search for signs of atmospheres on the rocky exoplanets <a href="https://arxiv.org/abs/2408.13340">GJ 1132b</a> and <a href="https://arxiv.org/abs/2408.15123">Gl 486b</a>. The data rule out most atmospheric scenarios, making it unlikely that either planet still holds on to a thick atmosphere. 
 	</li>
 <!-- .... -->
 	<li>
