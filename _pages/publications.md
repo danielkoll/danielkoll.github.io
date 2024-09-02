@@ -10,7 +10,7 @@ _\* = advised student_
 
 1. Quan H.*, **D.D.B. Koll**, N. Lutsko, J. Yuval (_submitted_), Optimal Solar Geoengineering Strategies Based on Reinforcement Learning.
 
-1. Zhan R.*, **D.D.B.Koll** , F. Ding (in press), Novel Atmospheric Dynamics shape Inner Edge of Habitable Zone around White Dwarfs, _The Astrophysical Journal_. [\[arxiv\]](https://arxiv.org/abs/2406.03189)
+1. Zhan R.*, **D.D.B.Koll** , F. Ding (2024), Novel Atmospheric Dynamics shape Inner Edge of Habitable Zone around White Dwarfs, _The Astrophysical Journal_. [\[arxiv\]](https://arxiv.org/abs/2406.03189) [\[journal]](https://iopscience.iop.org/article/10.3847/1538-4357/ad54c1)
 
 1. Xu Y.*, **D.D.B. Koll** (2024), CO2-Dependence of Longwave Clear-Sky Feedback Is Sensitive to Temperature, _Geophysical Research
    Letters_, 51, e2024GL108259. [\[journal\]](https://doi.org/10.1029/2024GL108259)
@@ -98,11 +98,12 @@ Astrobiology_. [\[link\]](https://link.springer.com/referenceworkentry/10.1007/9
 
     # Other publications
 
-14. Lutsko N., J. Martinez-Claros, **D.D.B. Koll** (submitted), Atmospheric Moisture Decreases Mid-Latitude Eddy Kinetic Energy. [\[preprint\]](https://essopenarchive.org/users/529274/articles/694474-atmospheric-moisture-decreases-mid-latitude-eddy-kinetic-energy)
+14. Mansfield M., Q. Xue, M. Zhang et al [including **D.D.B. Koll**], No Thick Atmosphere on the Terrestrial Exoplanet Gl 486b. [\[arxiv\]](https://arxiv.org/abs/2310.15895)
 
-14. de Wit J., R. Doyon, B. Rackham, et al [including
-**D.D.B. Koll**] (in press), A roadmap to the efficient and robust characterization of
-    temperate terrestrial planet atmospheres with JWST. [\[arxiv\]](https://arxiv.org/abs/2310.15895)
+14. Lutsko N., J. Martinez-Claros, **D.D.B. Koll** (2024), Atmospheric Moisture Decreases Mid-Latitude Eddy Kinetic Energy, _Journal of the Atmospheric Sciences_. [\[preprint\]](https://essopenarchive.org/users/529274/articles/694474-atmospheric-moisture-decreases-mid-latitude-eddy-kinetic-energy) [\[journal\]](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-23-0226.1/JAS-D-23-0226.1.xml)
+
+14. TRAPPIST-1 JWST Community Initiative [including
+**D.D.B. Koll**] (in press), A roadmap for the atmospheric characterization of terrestrial exoplanets with JWST, _Nature Astronomy_. [\[arxiv\]](https://arxiv.org/abs/2310.15895) [\[journal\]](https://www.nature.com/articles/s41550-024-02298-5)
 
 14. Gillon M., P. Pedersen, B. Rackham et al [including **D.D.B. Koll** and X. Lyu*] (2024), Detection of an Earth-sized exoplanet orbiting the nearby ultracool dwarf star SPECULOOS-3, _Nature Astronomy_. [\[journal\]](https://www.nature.com/articles/s41550-024-02271-2)
     
