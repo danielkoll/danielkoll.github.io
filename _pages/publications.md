@@ -105,7 +105,7 @@ Astrobiology_. [\[link\]](https://link.springer.com/referenceworkentry/10.1007/9
 14. Lutsko N., J. Martinez-Claros, **D.D.B. Koll** (2024), Atmospheric Moisture Decreases Mid-Latitude Eddy Kinetic Energy, _Journal of the Atmospheric Sciences_. [\[preprint\]](https://essopenarchive.org/users/529274/articles/694474-atmospheric-moisture-decreases-mid-latitude-eddy-kinetic-energy) [\[journal\]](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-23-0226.1/JAS-D-23-0226.1.xml)
 
 14. TRAPPIST-1 JWST Community Initiative [including
-**D.D.B. Koll**] (in press), A roadmap for the atmospheric characterization of terrestrial exoplanets with JWST, _Nature Astronomy_. [\[arxiv\]](https://arxiv.org/abs/2310.15895) [\[journal\]](https://www.nature.com/articles/s41550-024-02298-5)
+**D.D.B. Koll**] (2024), A roadmap for the atmospheric characterization of terrestrial exoplanets with JWST, _Nature Astronomy_. [\[arxiv\]](https://arxiv.org/abs/2310.15895) [\[journal\]](https://www.nature.com/articles/s41550-024-02298-5)
 
 14. Gillon M., P. Pedersen, B. Rackham et al [including **D.D.B. Koll** and X. Lyu*] (2024), Detection of an Earth-sized exoplanet orbiting the nearby ultracool dwarf star SPECULOOS-3, _Nature Astronomy_. [\[journal\]](https://www.nature.com/articles/s41550-024-02271-2)
     
