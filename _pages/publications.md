@@ -10,7 +10,7 @@ _\* = advised student_
 
 1. Quan H.*, **D.D.B. Koll**, N. Lutsko, J. Yuval (_submitted_), Optimal Solar Geoengineering Strategies Based on Reinforcement Learning.
 
-1. Zhan R.*, **D.D.B.Koll** , F. Ding (2024), Novel Atmospheric Dynamics shape Inner Edge of Habitable Zone around White Dwarfs, _The Astrophysical Journal_. [\[arxiv\]](https://arxiv.org/abs/2406.03189) [\[journal]](https://iopscience.iop.org/article/10.3847/1538-4357/ad54c1)
+1. Zhan R.*, **D.D.B.Koll** , F. Ding (2024), Novel Atmospheric Dynamics shape Inner Edge of Habitable Zone around White Dwarfs, _The Astrophysical Journal_. [\[arxiv\]](https://arxiv.org/abs/2406.03189) [\[journal\]](https://iopscience.iop.org/article/10.3847/1538-4357/ad54c1)
 
 1. Xu Y.*, **D.D.B. Koll** (2024), CO2-Dependence of Longwave Clear-Sky Feedback Is Sensitive to Temperature, _Geophysical Research
    Letters_, 51, e2024GL108259. [\[journal\]](https://doi.org/10.1029/2024GL108259)
