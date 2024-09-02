@@ -34,6 +34,12 @@ Each new list item starts with <li>.
 	</li>
 <!-- .... -->
 	<li>
+	<em>August 2024</em>
+    	Putting a new spin on the habitable zone ... Our <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ad54c1">new study</a>, led by Ruizhi Zhan, investigates the atmospheric dynamics of habitable planets around White Dwarfs. These planets are likely tidally locked but also rotate extremely rapidly, which gives rise to a new regime of atmospheric dynamics we call 'Bat rotation' and which we explain using shallow-water theory. Although it's still unclear whether planets around White Dwarfs are common, our results show that such planets would be extremely attractive targets for atmospheric characterization via JWST thermal phase curves.
+	</li>
+<!-- .... -->
+<!-- .... -->
+	<li>
 	<em>May 2024</em>
     Everybody knows CO2 absorbs radiation, which allows it to act as a radiative forcing. However, Kirchhoff's law states that a gas which absorbs radiation also emits radiation. This means CO2 can influence Earth's radiative feedback. Our <a href="https://doi.org/10.1029/2024GL108259">new study</a>, led by Yue Xu, explains why CO2 helps to stabilize Earth's feedback in warm climates, but destabilizes it in cold climates. That means CO2 provides an additional mechanism for feedback state-dependence, which needs to be taken into account when comparing today with paleoclimates or future climates.
 	</li>
