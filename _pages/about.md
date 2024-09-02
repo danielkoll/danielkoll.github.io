@@ -29,6 +29,11 @@ Each new list item starts with <li>.
 <ul>
 <!-- .... -->
 	<li>
+	<em>September 2024</em>
+    	Still no atmospheres? ... Qiao Xue and Megan Mansfield led two studies that used JWST to search for signs of atmospheres on the rocky exoplanets <a href="https://arxiv.org/abs/2408.13340">GJ 1132b</a> and <a hred="https://arxiv.org/abs/2408.15123">Gl 486b</a>. The data rule out most atmospheric scenarios, making it unlikely that either planet still holds on to a thick atmosphere. 
+	</li>
+<!-- .... -->
+	<li>
 	<em>May 2024</em>
     Everybody knows CO2 absorbs radiation, which allows it to act as a radiative forcing. However, Kirchhoff's law states that a gas which absorbs radiation also emits radiation. This means CO2 can influence Earth's radiative feedback. Our <a href="https://doi.org/10.1029/2024GL108259">new study</a>, led by Yue Xu, explains why CO2 helps to stabilize Earth's feedback in warm climates, but destabilizes it in cold climates. That means CO2 provides an additional mechanism for feedback state-dependence, which needs to be taken into account when comparing today with paleoclimates or future climates.
 	</li>
