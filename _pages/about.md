@@ -17,7 +17,9 @@ Why do different planets have such different climates? My work tries to explore 
 
 Interested in pursuing a summer research project, a PhD, or a postdoc at Peking University? Get in touch via email (see left).
 More links:
+
 [Open positions in Planetary Atmospheres](https://www.atmos.pku.edu.cn/en/research/Researchdirections/144785.htm)
+
 [Peking University Boya postdoctoral fellowship](https://postdocs.pku.edu.cn/tzgg/8a7f55bb4ed24cc88dec63ee67680d06.htm)
 
 
