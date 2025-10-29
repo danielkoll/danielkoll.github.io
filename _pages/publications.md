@@ -102,6 +102,8 @@ Astrobiology_. [\[link\]](https://link.springer.com/referenceworkentry/10.1007/9
 
     # Other publications
 
+14. Gillon M., Ducrot E, Bell T., et al [including **D.D.B. Koll** and X. Lyu*] (2025), First JWST thermal phase curves of temperate terrestrial exoplanets reveal no thick atmosphere around TRAPPIST-1 b and c, _Nature Astronomy_. [\[arxiv\]](https://arxiv.org/abs/2509.02128) 
+
 14. Coy B., Ih J., Kite E., **D.D.B. Koll**, et al (2025), Population-level Hypothesis Testing with Rocky Planet Emission Data: A Tentative Trend in the Brightness Temperatures of M-Earths, _The
     Astrophysical Journal_. [\[arxiv\]](https://arxiv.org/abs/2412.06573) [\[journal\]](https://iopscience.iop.org/article/10.3847/1538-4357/add3f7)
 
