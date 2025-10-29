@@ -33,9 +33,6 @@ PKU undergraduate student, working on spectroscopy.
 
 # Alumni
 
-### Zhiping Zhang (2023-2024)
-
-PKU undergraduate student, developed a simple analytic model to predict the albedo of an Earth-like atmosphere. Now a Master's student at ETH Zürich.
 
 ### [Heng Quan](https://heng-quan.github.io/) (2021-2022)
 
@@ -52,4 +49,12 @@ exoplanet atmospheres. Now a Master's student at Cambridge.
 
 PKU undergraduate student, worked on how tidal heating affects
 exoplanet climates. Now a PhD student at MIT.
+
+### [Johannes Hoerner](https://johanneshoerner.github.io/) (2023)
+
+Academic exchange student from University of Vienna. Worked on Snowball Earth.
+
+### Zhiping Zhang (2023-2024)
+
+PKU undergraduate student, developed a simple analytic model to predict the albedo of an Earth-like atmosphere. Now a Master's student at ETH Zürich.
 
