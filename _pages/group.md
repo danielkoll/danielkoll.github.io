@@ -8,28 +8,34 @@ author_profile: true
 
 ### Xintong Lyu (2021-now)
 
-PKU graduate student, working on surfaces and observations of airless
-exoplanets.
+PKU graduate student, working on surfaces and observations of airless exoplanets.
 
 ### Yue Xu (2021-now)
 
-PKU graduate student, working on spectral climate feedbacks.
+PKU graduate student, working on how CO2 affects Earth's climate and the theory of spectral climate feedbacks.
 
 ### [Ruizhi Zhan](https://ruizhizhan.github.io) (2022-now)
 
-PKU graduate student, working on the habitable zone around White Dwarfs.
+PKU graduate student, working on the habitable zone around White Dwarfs and GCM simulations of hot rocky exoplanets.
 
 ### [Yichen Gao](https://github.com/yichenGao911) (2023-now)
 
-PKU graduate student, working on convection in H2-rich atmospheres.
+PKU graduate student, working on moist convection in planetary atmospheres and Hycean worlds.
 
-### Zhiping Zhang (2023-now)
+### Haolin Li (2025-now)
 
-PKU undergraduate student, working on Earth's clearsky shortwave feedback.
+PKU graduate student, working on surfaces of hot 'lava world' exoplanets and cloudy GCM simulations of hot rocky exoplanets.
 
+### Boya Qin (2025-now)
+
+PKU undergraduate student, working on spectroscopy.
 
 
 # Alumni
+
+### Zhiping Zhang (2023-2024)
+
+PKU undergraduate student, developed a simple analytic model to predict the albedo of an Earth-like atmosphere. Now a Master's student at ETH Zürich.
 
 ### [Heng Quan](https://heng-quan.github.io/) (2021-2022)
 
