@@ -107,7 +107,7 @@ Astrobiology_. [\[link\]](https://link.springer.com/referenceworkentry/10.1007/9
 14. Coy B., Ih J., Kite E., **D.D.B. Koll**, et al (2025), Population-level Hypothesis Testing with Rocky Planet Emission Data: A Tentative Trend in the Brightness Temperatures of M-Earths, _The
     Astrophysical Journal_. [\[arxiv\]](https://arxiv.org/abs/2412.06573) [\[journal\]](https://iopscience.iop.org/article/10.3847/1538-4357/add3f7)
 
-14. Barclay T., K. B. Sheppard, N. Latouf, et al [including **D.D.B. Koll**] (2025), The transmission spectrum of the potentially rocky planet L 98-59 c. [\[arxiv\]](https://arxiv.org/abs/2301.10866) [\[journal\]](http://iopscience.iop.org/article/10.3847/1538-3881/ada5f6)
+14. Barclay T., K. B. Sheppard, N. Latouf, et al [including **D.D.B. Koll**] (2025), The transmission spectrum of the potentially rocky planet L 98-59 c, _The Astronomical Journal_. [\[arxiv\]](https://arxiv.org/abs/2301.10866) [\[journal\]](http://iopscience.iop.org/article/10.3847/1538-3881/ada5f6)
 
 14. Mansfield M., Q. Xue, M. Zhang et al [including **D.D.B. Koll**] (2024), No Thick Atmosphere on the Terrestrial Exoplanet Gl 486b, _ApJL_. [\[arxiv\]](https://arxiv.org/abs/2408.15123) [\[journal\]](https://iopscience.iop.org/article/10.3847/2041-8213/ad8161)
 
