@@ -15,8 +15,6 @@ I originally grew up in Tanzania, Germany, and Kenya. I went on to study Physics
 
 Why do different planets have such different climates? My work tries to explore this question from a range of angles, with a particular emphasis on the atmospheres of exoplanets and climate change on Earth. Find out more about our group's research [here](https://danielkoll.github.io/publications).
 
-<-- Find out more about my group's research [here](https://danielkoll.github.io/research) or check out our recent [publications](https://danielkoll.github.io/publications). -->
-
 Interested in pursuing a summer research project, a PhD, or a postdoc at Peking University? Get in touch via email (see left).
 More links: \
 [Open positions in Planetary Atmospheres](https://www.atmos.pku.edu.cn/en/research/Researchdirections/144785.htm) \
