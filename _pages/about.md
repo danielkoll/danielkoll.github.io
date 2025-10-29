@@ -37,6 +37,12 @@ Each new list item starts with <li>.
     	Wacky climates on Hycean worlds?! ... Yichen Gao led a <a href="https://arxiv.org/abs/2510.24224">new theory paper</a> about Hycean worlds (habitable mini-Neptunes that feature H2-atmospheres above liquid H2O oceans). We find these planets exhibit very surprising climate dynamics, with bistability, oscillations, and multistability all possible. The bad news - many exoplanet atmosphere models do not yet capture these effects, which might affect the conclusions of previous studies. The good news - Hycean planets are even more interesting than we thought!
 	</li>
 <!-- .... -->
+	<!-- .... -->
+	<li>
+	<em>October 2025</em>
+    	More on TRAPPIST-1: Congratulations to Michael Gillon and Elsa Ducrot for leading a new study published in <a href="https://arxiv.org/abs/2509.02128">Nature Astronomy</a>. Using a JWST thermal phase curve observation, our team was able to confirm that TRAPPIST-1b has no atmosphere. This confirms the planet's earlier eclipse observations with JWST, which suggested no thick atmosphere. TRAPPIST-1c is a bit more puzzling, and seems to have either a more reflective surface or a remnant atmosphere.
+	</li>
+<!-- .... -->
 <!-- .... -->
 	<li>
 	<em>June 2025</em>
