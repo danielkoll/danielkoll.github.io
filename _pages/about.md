@@ -34,7 +34,7 @@ Each new list item starts with <li>.
 <!-- .... -->
 	<li>
 	<em>October 2025</em>
-    	Wacky climates on Hycean worlds?! ... Yichen Gao led a <a href="https://arxiv.org/abs/2408.13340">new theory paper</a> about Hycean worlds (habitable mini-Neptunes that feature H2-atmospheres above liquid H2O oceans). We find these planets exhibit very surprising climate dynamics, with bistability, oscillations, and multistability all possible. The bad news - many exoplanet atmosphere models do not yet capture these effects, which might affect the conclusions of previous studies. The good news - Hycean planets are even more interesting than we thought!
+    	Wacky climates on Hycean worlds?! ... Yichen Gao led a <a href="https://arxiv.org/abs/2510.24224">new theory paper</a> about Hycean worlds (habitable mini-Neptunes that feature H2-atmospheres above liquid H2O oceans). We find these planets exhibit very surprising climate dynamics, with bistability, oscillations, and multistability all possible. The bad news - many exoplanet atmosphere models do not yet capture these effects, which might affect the conclusions of previous studies. The good news - Hycean planets are even more interesting than we thought!
 	</li>
 <!-- .... -->
 <!-- .... -->
