@@ -46,7 +46,7 @@ Each new list item starts with <li>.
 <!-- .... -->
 	<li>
 	<em>June 2025</em>
-    	A trend in the observed emission temperatures of rocky exoplanets? ... Brandon Coy led a paper that finds a <a href="https://arxiv.org/abs/2408.13340">suggestive trend</a> across the observed secondary eclipses of rocky exoplanets. Either atmospheres are more likely on cooler planets, or surface properties of airless exoplanets need to vary with temperature.
+    	A trend in the observed emission temperatures of rocky exoplanets? ... Brandon Coy led a paper that finds a <a href="https://iopscience.iop.org/article/10.3847/1538-4357/add3f7">suggestive trend</a> across the observed secondary eclipses of rocky exoplanets. Either atmospheres are more likely on cooler planets, or surface properties of airless exoplanets need to vary with temperature.
 	</li>
 <!-- .... -->
 <!-- .... -->
