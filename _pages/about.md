@@ -28,7 +28,7 @@ More links: \
 Each new list item starts with <li>.
 -->
 
-<div style="height:400px;overflow:auto;">
+<div style="height:600px;overflow:auto;">
 <b>News (scroll for more)</b>
 <ul>
 <!-- .... -->
