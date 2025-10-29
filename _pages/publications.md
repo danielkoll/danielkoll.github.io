@@ -102,9 +102,14 @@ Astrobiology_. [\[link\]](https://link.springer.com/referenceworkentry/10.1007/9
 
     # Other publications
 
-14. Mansfield M., Q. Xue, M. Zhang et al [including **D.D.B. Koll**], No Thick Atmosphere on the Terrestrial Exoplanet Gl 486b. [\[arxiv\]](https://arxiv.org/abs/2408.15123)
+14. Coy B., Ih J., Kite E., **D.D.B. Koll**, et al (2025), Population-level Hypothesis Testing with Rocky Planet Emission Data: A Tentative Trend in the Brightness Temperatures of M-Earths, _The
+    Astrophysical Journal_. [\[arxiv\]](https://arxiv.org/abs/2412.06573) [\[journal\]](https://iopscience.iop.org/article/10.3847/1538-4357/add3f7)
 
-14. Xue Q., J. Bean, M. Zhang et al [including **D.D.B. Koll**], JWST Thermal Emission of the Terrestrial Exoplanet GJ 1132b. [\[arxiv\]](https://arxiv.org/abs/2408.13340)
+14. Barclay T., K. B. Sheppard, N. Latouf, et al [including **D.D.B. Koll**] (2025), The transmission spectrum of the potentially rocky planet L 98-59 c. [\[arxiv\]](https://arxiv.org/abs/2301.10866) [\[journal\]](http://iopscience.iop.org/article/10.3847/1538-3881/ada5f6)
+
+14. Mansfield M., Q. Xue, M. Zhang et al [including **D.D.B. Koll**], No Thick Atmosphere on the Terrestrial Exoplanet Gl 486b. [\[arxiv\]](https://arxiv.org/abs/2408.15123) [\[journal\]](https://iopscience.iop.org/article/10.3847/2041-8213/ad8161)
+
+14. Xue Q., J. Bean, M. Zhang et al [including **D.D.B. Koll**], JWST Thermal Emission of the Terrestrial Exoplanet GJ 1132b. [\[arxiv\]](https://arxiv.org/abs/2408.13340) [\[journal\]](https://iopscience.iop.org/article/10.3847/2041-8213/ad72e9)
 
 14. Lutsko N., J. Martinez-Claros, **D.D.B. Koll** (2024), Atmospheric Moisture Decreases Mid-Latitude Eddy Kinetic Energy, _Journal of the Atmospheric Sciences_. [\[preprint\]](https://essopenarchive.org/users/529274/articles/694474-atmospheric-moisture-decreases-mid-latitude-eddy-kinetic-energy) [\[journal\]](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-23-0226.1/JAS-D-23-0226.1.xml)
 
@@ -125,9 +130,6 @@ _Nature_. [\[journal\]](https://doi.org/10.1038/s41586-023-06232-z)
 [\[arxiv\]](https://arxiv.org/abs/2306.10150) [News:
 a](https://www.nature.com/articles/d41586-023-01983-1)
 [b](https://www.mpia.de/news/science/2023-08-trappist-1-c)
-
-14. Barclay T., K. B. Sheppard, N. Latouf, et al [including
-    **D.D.B. Koll**] (submitted), The transmission spectrum of the potentially rocky planet L 98-59 c. [\[arxiv\]](https://arxiv.org/abs/2301.10866)
 
 15. Whittaker E., M. Malik, J. Ih, et al. [including **D.D.B. Koll**]
     (2022), The Detectability of Rocky Planet Surface and
