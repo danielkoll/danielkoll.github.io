@@ -8,7 +8,11 @@ author_profile: true
 # First- and Second-author publications
 _\* = advised student_
 
-1. Quan H.*, **D.D.B. Koll**, N. Lutsko, J. Yuval (_submitted_), Optimal Solar Geoengineering Strategies Based on Reinforcement Learning.
+1. Lyu X.*, **D.D.B. Koll** (_submitted_), Impact of Subsurface Temperature Gradients on Emission Spectra of Airless Exoplanets: the Solid-state Greenhouse and Anti-Greenhouse. [\[arxiv\]](https://arxiv.org/abs/2510.22932)
+1. Xu Y.*, **D.D.B. Koll**, N. Lutsko (_submitted_), An Analytical Model for CO2 Surface Forcing, with Application to the Direct Precipitation Response. [\[preprint\]](https://eartharxiv.org/repository/view/8210/)
+1. Quan H.*, **D.D.B. Koll**, N. Lutsko, J. Yuval (_submitted_), Optimal Solar Geoengineering Strategies Based on Reinforcement Learning. [\[preprint\]](https://essopenarchive.org/doi/full/10.22541/essoar.174526360.00464477)
+
+1. Gao Y.*, **D.D.B.Koll** , F. Ding (in press), Bistability, Oscillations, and Multistability on Hycean Planets, _The Astrophysical Journal_. [\[arxiv\]](https://arxiv.org/abs/2510.24224)
 
 1. Zhan R.*, **D.D.B.Koll** , F. Ding (2024), Novel Atmospheric Dynamics shape Inner Edge of Habitable Zone around White Dwarfs, _The Astrophysical Journal_. [\[arxiv\]](https://arxiv.org/abs/2406.03189) [\[journal\]](https://iopscience.iop.org/article/10.3847/1538-4357/ad54c1)
 
