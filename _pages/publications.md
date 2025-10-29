@@ -109,9 +109,9 @@ Astrobiology_. [\[link\]](https://link.springer.com/referenceworkentry/10.1007/9
 
 14. Barclay T., K. B. Sheppard, N. Latouf, et al [including **D.D.B. Koll**] (2025), The transmission spectrum of the potentially rocky planet L 98-59 c. [\[arxiv\]](https://arxiv.org/abs/2301.10866) [\[journal\]](http://iopscience.iop.org/article/10.3847/1538-3881/ada5f6)
 
-14. Mansfield M., Q. Xue, M. Zhang et al [including **D.D.B. Koll**], No Thick Atmosphere on the Terrestrial Exoplanet Gl 486b. [\[arxiv\]](https://arxiv.org/abs/2408.15123) [\[journal\]](https://iopscience.iop.org/article/10.3847/2041-8213/ad8161)
+14. Mansfield M., Q. Xue, M. Zhang et al [including **D.D.B. Koll**] (2024), No Thick Atmosphere on the Terrestrial Exoplanet Gl 486b, _ApJL_. [\[arxiv\]](https://arxiv.org/abs/2408.15123) [\[journal\]](https://iopscience.iop.org/article/10.3847/2041-8213/ad8161)
 
-14. Xue Q., J. Bean, M. Zhang et al [including **D.D.B. Koll**], JWST Thermal Emission of the Terrestrial Exoplanet GJ 1132b. [\[arxiv\]](https://arxiv.org/abs/2408.13340) [\[journal\]](https://iopscience.iop.org/article/10.3847/2041-8213/ad72e9)
+14. Xue Q., J. Bean, M. Zhang et al [including **D.D.B. Koll**] (2024), JWST Thermal Emission of the Terrestrial Exoplanet GJ 1132b, _ApJL_. [\[arxiv\]](https://arxiv.org/abs/2408.13340) [\[journal\]](https://iopscience.iop.org/article/10.3847/2041-8213/ad72e9)
 
 14. Lutsko N., J. Martinez-Claros, **D.D.B. Koll** (2024), Atmospheric Moisture Decreases Mid-Latitude Eddy Kinetic Energy, _Journal of the Atmospheric Sciences_. [\[preprint\]](https://essopenarchive.org/users/529274/articles/694474-atmospheric-moisture-decreases-mid-latitude-eddy-kinetic-energy) [\[journal\]](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-23-0226.1/JAS-D-23-0226.1.xml)
 
