@@ -34,7 +34,7 @@ Each new list item starts with <li>.
 		<!-- .... -->
 	<li>
 	<em>December 2025</em>
-    	I gave a public lecture on rocky exoplanets, what we've learned about these planets so far, and what the results might tell us in the search for life elsewhere. You can find the lecture online <a href="https://www.koushare.com/live/details/48739">here</a>.
+    	I gave a PKU Gezhi Forum public lecture on rocky exoplanets, what we've learned about these planets so far, and what the results might tell us in the search for life elsewhere. You can find the lecture recording <a href="https://www.koushare.com/live/details/48739">here</a>.
 	</li>
 <!-- .... -->
 <!-- .... -->
