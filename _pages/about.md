@@ -39,6 +39,12 @@ Each new list item starts with <li>.
 <!-- .... -->
 <!-- .... -->
 	<li>
+	<em>December 2025</em>
+    	AI learns to optimally geo-engineer the climate: Heng Quan led a <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JD044319">new study</a> about geoengineering. Solar geoengineering is a tricky problem, because cooling the planet via aerosols does not simply reverse CO2 warming. Here, we let a machine learning algorithm modify the stratospheric aerosol layer in an Global Climate Model (GCM), and ask it to "optimally" reverse global warming. First the algorithm starts off randomly, but over time it learns how to adjust the time-varying pattern of stratospheric aerosol to better & better reverse CO2's greenhouse effect. Interestingly, when we ask the algorithm to reverse global warming, it finds that it is more favorable to initially use a large amount of aerosol, and only switch to moderate aerosol later. This behavior makes sense: the thermal inertia of the climate system will always provide an incentive to "over-engineer" the climate on short timescales... 
+	</li>
+<!-- .... -->
+<!-- .... -->
+	<li>
 	<em>October 2025</em>
     	Wacky climates on Hycean worlds?! ... Yichen Gao led a <a href="https://arxiv.org/abs/2510.24224">new theory paper</a> about Hycean worlds (habitable mini-Neptunes that feature H2-atmospheres above liquid H2O oceans). We find these planets exhibit surprising climates that can show bistability, oscillations, and multistability. The bad news - many exoplanet atmosphere models do not yet capture these effects, which might affect the conclusions of previous studies. The good news - Hycean planets are even more interesting than we thought!
 	</li>
