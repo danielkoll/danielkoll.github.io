@@ -8,7 +8,7 @@ author_profile: true
 # First- and Second-author publications
 _\* = advised student_
 
-1. Lyu X.*, **D.D.B. Koll** (in press), Impact of Subsurface Temperature Gradients on Emission Spectra of Airless Exoplanets: the Solid-state Greenhouse and Anti-Greenhouse, _The Astrophysical Journal. [\[arxiv\]](https://arxiv.org/abs/2510.22932)
+1. Lyu X.*, **D.D.B. Koll** (in press), Impact of Subsurface Temperature Gradients on Emission Spectra of Airless Exoplanets: the Solid-state Greenhouse and Anti-Greenhouse, _The Astrophysical Journal_. [\[arxiv\]](https://arxiv.org/abs/2510.22932)
 
 1. Xu Y.*, **D.D.B. Koll**, N. Lutsko (in press), An Analytical Model for CO2 Surface Forcing, with Application to the Direct Precipitation Response, _Journal of Geophysical Research: Atmospheres_. [\[preprint\]](https://eartharxiv.org/repository/view/8210/)
 
