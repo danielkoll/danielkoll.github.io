@@ -14,7 +14,7 @@ _\* = advised student_
 
 1. Gao Y.*, **D.D.B.Koll** , F. Ding (2026), Bistability, Oscillations, and Multistability on Hycean Planets, _The Astrophysical Journal_, 997, 43. [\[arxiv\]](https://arxiv.org/abs/2510.24224)
 
-1. Quan H.*, **D.D.B. Koll**, N. Lutsko, J. Yuval (2025), Optimal Solar Geoengineering Strategies Based on Reinforcement Learning, _Journal of Geophysical Research: Atmospheres_. [\[preprint\]](https://essopenarchive.org/doi/full/10.22541/essoar.174526360.00464477) [\[journal\]](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2025JD044319)
+1. Quan H.*, **D.D.B. Koll**, N. Lutsko, J. Yuval (2025), Optimal Solar Geoengineering Strategies Based on Reinforcement Learning, _Journal of Geophysical Research: Atmospheres_, 130, e2025JD044319. [\[preprint\]](https://essopenarchive.org/doi/full/10.22541/essoar.174526360.00464477) [\[journal\]](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2025JD044319)
 
 1. Zhan R.*, **D.D.B.Koll** , F. Ding (2024), Novel Atmospheric Dynamics shape Inner Edge of Habitable Zone around White Dwarfs, _The Astrophysical Journal_, 971, 125. [\[arxiv\]](https://arxiv.org/abs/2406.03189) [\[journal\]](https://iopscience.iop.org/article/10.3847/1538-4357/ad54c1)
 
