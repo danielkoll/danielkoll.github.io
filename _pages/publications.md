@@ -12,11 +12,11 @@ _\* = advised student_
 
 1. Xu Y.*, **D.D.B. Koll**, N. Lutsko (in press), An Analytical Model for CO2 Surface Forcing, with Application to the Direct Precipitation Response, _Journal of Geophysical Research: Atmospheres_. [\[preprint\]](https://eartharxiv.org/repository/view/8210/)
 
-1. Gao Y.*, **D.D.B.Koll** , F. Ding (2026), Bistability, Oscillations, and Multistability on Hycean Planets, _The Astrophysical Journal_. [\[arxiv\]](https://arxiv.org/abs/2510.24224)
+1. Gao Y.*, **D.D.B.Koll** , F. Ding (2026), Bistability, Oscillations, and Multistability on Hycean Planets, _The Astrophysical Journal_, 997, 43. [\[arxiv\]](https://arxiv.org/abs/2510.24224)
 
 1. Quan H.*, **D.D.B. Koll**, N. Lutsko, J. Yuval (2025), Optimal Solar Geoengineering Strategies Based on Reinforcement Learning, _Journal of Geophysical Research: Atmospheres_. [\[preprint\]](https://essopenarchive.org/doi/full/10.22541/essoar.174526360.00464477) [\[journal\]](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2025JD044319)
 
-1. Zhan R.*, **D.D.B.Koll** , F. Ding (2024), Novel Atmospheric Dynamics shape Inner Edge of Habitable Zone around White Dwarfs, _The Astrophysical Journal_, 997, 43. [\[arxiv\]](https://arxiv.org/abs/2406.03189) [\[journal\]](https://iopscience.iop.org/article/10.3847/1538-4357/ad54c1)
+1. Zhan R.*, **D.D.B.Koll** , F. Ding (2024), Novel Atmospheric Dynamics shape Inner Edge of Habitable Zone around White Dwarfs, _The Astrophysical Journal_, 971, 125. [\[arxiv\]](https://arxiv.org/abs/2406.03189) [\[journal\]](https://iopscience.iop.org/article/10.3847/1538-4357/ad54c1)
 
 1. Xu Y.*, **D.D.B. Koll** (2024), CO2-Dependence of Longwave Clear-Sky Feedback Is Sensitive to Temperature, _Geophysical Research
    Letters_, 51, e2024GL108259. [\[journal\]](https://doi.org/10.1029/2024GL108259)
