@@ -34,7 +34,7 @@ Each new list item starts with <li>.
 	<!-- .... -->
 	<li>
 	<em>March 2026</em>
-    	Introducing the solid-state greenhouse and antigreenhouse for exoplanets ... Xintong Lyu led a <a href="https://arxiv.org/abs/2510.22932">new study</a> about sub-surface temperature gradients on airless exoplanets. We find that exo-regoliths can develop temperature gradients of >200K in their upper-most subsurfaces. These temperature gradients can alter secondary eclipse depths by up to 50%, significantly affecting the interpretation of JWST emission spectra of planets such as LHS 3844b or TRAPPIST-1b.
+    	Introducing the solid-state greenhouse and anti-greenhouse for exoplanets ... Xintong Lyu led a <a href="https://arxiv.org/abs/2510.22932">new study</a> exploring the effect of sub-surface temperature gradients on airless exoplanets. We find that exo-regoliths can develop temperature gradients of >200K in their upper-most subsurfaces. These temperature gradients can alter secondary eclipse depths by up to 50%, significantly affecting the interpretation of JWST emission spectra of planets such as LHS 3844b or TRAPPIST-1b.
 	</li>
 <!-- .... --><!-- .... -->
 	<li>
