@@ -39,7 +39,7 @@ Each new list item starts with <li>.
 <!-- .... --><!-- .... -->
 	<li>
 	<em>February 2026</em>
-    	Why do climate models consistely show that an instantaneous increase in CO2 abruptly decreases rainfall (before the surface eventually warms, pushing rainfall back up)?  Our answer in a <a href="https://eartharxiv.org/repository/view/8210/">new study</a> led by Yue Xu is that CO2 affects Earth's surface budget different from its top-of-atmosphere (TOA) budget. By deriving an analytic model for CO2's surface forcing, and combining it with a previous analytic model for the TOA forcing, we show that CO2 supresses the TOA more than the surface budget. This decreases the atmosphere's latent heating and thus suppresses rainfall. Importantly, our study also shows that CO2's precipitation effect is state-dependent: the same CO2 increase affects precipitation differently in a cold versus a hot climate...
+    	Why do climate models consistely show that an instantaneous increase in CO2 abruptly decreases rainfall (before the surface eventually warms, pushing rainfall back up)?  Our answer in a <a href="https://eartharxiv.org/repository/view/8210/">new study</a> led by Yue Xu is that CO2 affects Earth's surface budget differently than its top-of-atmosphere (TOA) budget. By deriving an analytic model for CO2's surface forcing, and combining it with a previous analytic model for the TOA forcing, we show that CO2 supresses the TOA more than the surface budget. This decreases the atmosphere's latent heating and suppresses rainfall. Importantly, CO2's precipitation effect is state-dependent: the same CO2 doubling affects precipitation differently in a cold versus a hot climate...
 	</li>
 <!-- .... -->
 		<!-- .... -->
