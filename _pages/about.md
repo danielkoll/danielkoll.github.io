@@ -33,6 +33,11 @@ Each new list item starts with <li>.
 <ul>
 	<!-- .... -->
 	<li>
+	<em>March 2026</em>
+    	Introducing the solid-state greenhouse and antigreenhouse for exoplanets ... Xintong Lyu led a <a href="https://arxiv.org/abs/2510.22932">new study</a> about sub-surface temperature gradients on airless exoplanets. We find that exo-regoliths can develop temperature gradients of >200K in their upper-most subsurfaces. These temperature gradients can alter secondary eclipse depths by up to 50%, significantly affecting the interpretation of JWST emission spectra of planets such as LHS 3844b or TRAPPIST-1b.
+	</li>
+<!-- .... --><!-- .... -->
+	<li>
 	<em>February 2026</em>
     	Why do climate models consistely show that an instantaneous increase in CO2 abruptly decreases rainfall (before the surface eventually warms, pushing rainfall back up)?  Our answer in a <a href="https://eartharxiv.org/repository/view/8210/">new study</a> led by Yue Xu is that CO2 affects Earth's surface budget different from its top-of-atmosphere (TOA) budget. By deriving an analytic model for CO2's surface forcing, and combining it with a previous analytic model for the TOA forcing, we show that CO2 supresses the TOA more than the surface budget. This decreases the atmosphere's latent heating and thus suppresses rainfall. Importantly, our study also shows that CO2's precipitation effect is state-dependent: the same CO2 increase affects precipitation differently in a cold versus a hot climate...
 	</li>
