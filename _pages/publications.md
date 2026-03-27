@@ -8,11 +8,11 @@ author_profile: true
 # First- and Second-author publications
 _\* = advised student_
 
-1. Lyu X.*, **D.D.B. Koll** (in press), Impact of Subsurface Temperature Gradients on Emission Spectra of Airless Exoplanets: the Solid-state Greenhouse and Anti-Greenhouse, _The Astrophysical Journal_. [\[arxiv\]](https://arxiv.org/abs/2510.22932)
+1. Lyu X.*, **D.D.B. Koll** (2026), Impact of Subsurface Temperature Gradients on Emission Spectra of Airless Exoplanets: the Solid-state Greenhouse and Anti-Greenhouse, _The Astrophysical Journal_, 1000, 274. [\[arxiv\]](https://arxiv.org/abs/2510.22932) [\[journal\]](https://doi.org/10.1029/2025JD043575)
 
-1. Xu Y.*, **D.D.B. Koll**, N. Lutsko (in press), An Analytical Model for CO2 Surface Forcing, with Application to the Direct Precipitation Response, _Journal of Geophysical Research: Atmospheres_. [\[preprint\]](https://eartharxiv.org/repository/view/8210/)
+1. Xu Y.*, **D.D.B. Koll**, N. Lutsko (2026), An Analytical Model for CO2 Surface Forcing, with Application to the Direct Precipitation Response, _Journal of Geophysical Research: Atmospheres_, 131, 5. [\[preprint\]](https://eartharxiv.org/repository/view/8210/) [\[journal\]](https://doi.org/10.1029/2025JD043575)
 
-1. Gao Y.*, **D.D.B.Koll** , F. Ding (2026), Bistability, Oscillations, and Multistability on Hycean Planets, _The Astrophysical Journal_, 997, 43. [\[arxiv\]](https://arxiv.org/abs/2510.24224)
+1. Gao Y.*, **D.D.B.Koll** , F. Ding (2026), Bistability, Oscillations, and Multistability on Hycean Planets, _The Astrophysical Journal_, 997, 43. [\[arxiv\]](https://arxiv.org/abs/2510.24224) [\[journal\]](https://doi.org/10.3847/1538-4357/ae18d7)
 
 1. Quan H.*, **D.D.B. Koll**, N. Lutsko, J. Yuval (2025), Optimal Solar Geoengineering Strategies Based on Reinforcement Learning, _Journal of Geophysical Research: Atmospheres_, 130, e2025JD044319. [\[preprint\]](https://essopenarchive.org/doi/full/10.22541/essoar.174526360.00464477) [\[journal\]](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2025JD044319)
 
