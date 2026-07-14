@@ -108,6 +108,8 @@ Astrobiology_. [\[link\]](https://link.springer.com/referenceworkentry/10.1007/9
 
 14. Seidel J., Parmentier V., Prinoth B. et al [including **D.D.B. Koll**] (2026), Magnetic field strengths of hot giant exoplanets consistent with Solar System values, _Nature Astronomy_. [\[arxiv\]](https://arxiv.org/abs/2509.02128) [\[journal\]](https://www.nature.com/articles/s41550-026-02870-1)
 
+14. Zieba S., Kreidberg L., Coy B. et al [including **D.D.B. Koll**] (2026), The dark and featureless surface of rocky exoplanet LHS 3844 b from JWST mid-infrared spectroscopy, _Nature Astronomy_. [\[arxiv\]](https://arxiv.org/abs/2605.00100) [\[journal\]](https://www.nature.com/articles/s41550-026-02860-3)
+
 14. Coy B., Xue Q., Weiner Mansfield M. et al [including **D.D.B. Koll**] (2026), Evidence for an Atmosphere on the Ultra-short-period Super-Earth HD 3167 b, _Astrophysical Journal Letters_. [\[arxiv\]](https://arxiv.org/abs/2604.11911) [\[journal\]](https://iopscience.iop.org/article/10.3847/2041-8213/ae7f23)
 
 14. Gillon M., Ducrot E, Bell T., et al [including **D.D.B. Koll** and X. Lyu*] (2025), No thick atmosphere around TRAPPIST-1 b and c from JWST thermal phase curves, _Nature Astronomy_. [\[arxiv\]](https://arxiv.org/abs/2509.02128) [\[journal\]](https://www.nature.com/articles/s41550-026-02806-9)
