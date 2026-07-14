@@ -106,7 +106,7 @@ Astrobiology_. [\[link\]](https://link.springer.com/referenceworkentry/10.1007/9
 
     # Other publications
 
-14. Seidel J., Parmentier V., Prinoth B. et al [including **D.D.B. Koll**] (2026), Magnetic field strengths of hot giant exoplanets consistent with Solar System values, _Nature Astronomy_. [\[arxiv\]](https://arxiv.org/abs/2509.02128) 
+14. Seidel J., Parmentier V., Prinoth B. et al [including **D.D.B. Koll**] (2026), Magnetic field strengths of hot giant exoplanets consistent with Solar System values, _Nature Astronomy_. [\[arxiv\]](https://arxiv.org/abs/2509.02128) [\[journal\]](https://www.nature.com/articles/s41550-026-02870-1)
 
 14. Coy B., Xue Q., Weiner Mansfield M. et al [including **D.D.B. Koll**] (2026), Evidence for an Atmosphere on the Ultra-short-period Super-Earth HD 3167 b, _Astrophysical Journal Letters_. [\[arxiv\]](https://arxiv.org/abs/2604.11911) [\[journal\]](https://iopscience.iop.org/article/10.3847/2041-8213/ae7f23)
 
