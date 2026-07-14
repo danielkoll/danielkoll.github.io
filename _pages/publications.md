@@ -110,7 +110,7 @@ Astrobiology_. [\[link\]](https://link.springer.com/referenceworkentry/10.1007/9
 
 14. Coy B., Xue Q., Weiner Mansfield M. et al [including **D.D.B. Koll**] (2026), Evidence for an Atmosphere on the Ultra-short-period Super-Earth HD 3167 b, _Astrophysical Journal Letters_. [\[arxiv\]](https://arxiv.org/abs/2604.11911) [\[journal\]](https://iopscience.iop.org/article/10.3847/2041-8213/ae7f23)
 
-14. Gillon M., Ducrot E, Bell T., et al [including **D.D.B. Koll** and X. Lyu*] (2025), No thick atmosphere around TRAPPIST-1 b and c from JWST thermal phase curves, _Nature Astronomy_. [\[arxiv\]](https://arxiv.org/abs/2509.02128) 
+14. Gillon M., Ducrot E, Bell T., et al [including **D.D.B. Koll** and X. Lyu*] (2025), No thick atmosphere around TRAPPIST-1 b and c from JWST thermal phase curves, _Nature Astronomy_. [\[arxiv\]](https://arxiv.org/abs/2509.02128) [\[journal\]](https://www.nature.com/articles/s41550-026-02806-9)
 
 14. Coy B., Ih J., Kite E., **D.D.B. Koll**, et al (2025), Population-level Hypothesis Testing with Rocky Planet Emission Data: A Tentative Trend in the Brightness Temperatures of M-Earths, _The
     Astrophysical Journal_. [\[arxiv\]](https://arxiv.org/abs/2412.06573) [\[journal\]](https://iopscience.iop.org/article/10.3847/1538-4357/add3f7)
