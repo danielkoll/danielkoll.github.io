@@ -8,6 +8,8 @@ author_profile: true
 # First- and Second-author publications
 _\* = advised student_
 
+1. Zhan R.*, **D.D.B.Koll** (2026), Reinterpreting the JWST Observations of 55 Cancri e with a Non-Grey General Circulation Model, _The Astrophysical Journal_, in press. [\[arxiv\]](https://arxiv.org/abs/2606.12116)
+
 1. Lyu X.*, **D.D.B. Koll** (2026), Impact of Subsurface Temperature Gradients on Emission Spectra of Airless Exoplanets: the Solid-state Greenhouse and Anti-Greenhouse, _The Astrophysical Journal_, 1000, 274. [\[arxiv\]](https://arxiv.org/abs/2510.22932) [\[journal\]](https://doi.org/10.3847/1538-4357/ae4a9f)
 
 1. Xu Y.*, **D.D.B. Koll**, N. Lutsko (2026), An Analytical Model for CO2 Surface Forcing, with Application to the Direct Precipitation Response, _Journal of Geophysical Research: Atmospheres_, 131, 5. [\[preprint\]](https://eartharxiv.org/repository/view/8210/) [\[journal\]](https://doi.org/10.1029/2025JD043575)
@@ -104,7 +106,11 @@ Astrobiology_. [\[link\]](https://link.springer.com/referenceworkentry/10.1007/9
 
     # Other publications
 
-14. Gillon M., Ducrot E, Bell T., et al [including **D.D.B. Koll** and X. Lyu*] (2025), First JWST thermal phase curves of temperate terrestrial exoplanets reveal no thick atmosphere around TRAPPIST-1 b and c, _Nature Astronomy_. [\[arxiv\]](https://arxiv.org/abs/2509.02128) 
+14. Seidel J., Parmentier V., Prinoth B. et al [including **D.D.B. Koll**] (2026), Magnetic field strengths of hot giant exoplanets consistent with Solar System values, _Nature Astronomy_. [\[arxiv\]](https://arxiv.org/abs/2509.02128) 
+
+14. Coy B., Xue Q., Weiner Mansfield M. et al [including **D.D.B. Koll**] (2026), Evidence for an Atmosphere on the Ultra-short-period Super-Earth HD 3167 b, _Astrophysical Journal Letters_. [\[arxiv\]](https://arxiv.org/abs/2604.11911) [\[journal\]](https://iopscience.iop.org/article/10.3847/2041-8213/ae7f23)
+
+14. Gillon M., Ducrot E, Bell T., et al [including **D.D.B. Koll** and X. Lyu*] (2025), No thick atmosphere around TRAPPIST-1 b and c from JWST thermal phase curves, _Nature Astronomy_. [\[arxiv\]](https://arxiv.org/abs/2509.02128) 
 
 14. Coy B., Ih J., Kite E., **D.D.B. Koll**, et al (2025), Population-level Hypothesis Testing with Rocky Planet Emission Data: A Tentative Trend in the Brightness Temperatures of M-Earths, _The
     Astrophysical Journal_. [\[arxiv\]](https://arxiv.org/abs/2412.06573) [\[journal\]](https://iopscience.iop.org/article/10.3847/1538-4357/add3f7)
