@@ -106,7 +106,7 @@ Astrobiology_. [\[link\]](https://link.springer.com/referenceworkentry/10.1007/9
 
     # Other publications
 
-14. Seidel J., Parmentier V., Prinoth B. et al [including **D.D.B. Koll**] (2026), Magnetic field strengths of hot giant exoplanets consistent with Solar System values, _Nature Astronomy_. [\[arxiv\]](https://arxiv.org/abs/2509.02128) [\[journal\]](https://www.nature.com/articles/s41550-026-02870-1)
+14. Seidel J., Parmentier V., Prinoth B. et al [including **D.D.B. Koll**] (2026), Magnetic field strengths of hot giant exoplanets consistent with Solar System values, _Nature Astronomy_. [\[arxiv\]](https://arxiv.org/abs/2606.22455) [\[journal\]](https://www.nature.com/articles/s41550-026-02870-1)
 
 14. Zieba S., Kreidberg L., Coy B. et al [including **D.D.B. Koll**] (2026), The dark and featureless surface of rocky exoplanet LHS 3844 b from JWST mid-infrared spectroscopy, _Nature Astronomy_. [\[arxiv\]](https://arxiv.org/abs/2605.00100) [\[journal\]](https://www.nature.com/articles/s41550-026-02860-3)
 
